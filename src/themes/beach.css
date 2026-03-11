@@ -1,0 +1,10 @@
+:root {
+  --bg: #e8f8ff;          /* light sky */
+  --surface: #ffffff;     /* clean white cards */
+  --primary: #1ca9c9;     /* ocean teal */
+  --secondary: #ffe8a1;   /* warm sand */
+  --text: #003b4a;        /* deep ocean blue */
+  --text-light: #0a4f5f;  /* softer blue */
+  --button-bg: #1ca9c9;
+  --button-text: #ffffff;
+}

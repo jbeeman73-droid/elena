@@ -1,0 +1,10 @@
+:root {
+  --bg: #f1f8e9;          /* pale leaf green */
+  --surface: #ffffff;     /* clean white cards */
+  --primary: #4caf50;     /* garden green */
+  --secondary: #dcedc8;   /* soft plant green */
+  --text: #1b5e20;        /* deep forest green */
+  --text-light: #33691e;  /* medium green */
+  --button-bg: #4caf50;
+  --button-text: #ffffff;
+}

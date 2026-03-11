@@ -1,0 +1,10 @@
+:root {
+  --bg: #f9f4ef;          /* antique parchment */
+  --surface: #fffdf9;     /* warm ivory */
+  --primary: #8b5e3c;     /* aged bronze */
+  --secondary: #f2e2c4;   /* old paper */
+  --text: #4a2f1b;        /* dark brown ink */
+  --text-light: #6b4a2e;  /* medium brown */
+  --button-bg: #8b5e3c;
+  --button-text: #ffffff;
+}
